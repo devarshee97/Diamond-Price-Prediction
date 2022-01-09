@@ -1,2 +1,2 @@
 # Diamond-Price-Prediction
-This project is a part of my first task as a data science intern at Analyttica Datalab. The goal is to implement lasso and ridge regularization in linear regression
+The objective of this project is to implement lasso and ridge regularization in linear regression to predict the price of a diamond piece. The data is collected from Kaggle freely available for public access.
